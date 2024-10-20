@@ -1,6 +1,6 @@
 # `Map`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/7269q0xvwe50c6i6?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-8-map)
 
 ## Легенда
 
